@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>FENN-177-20</Machine>
+    <WindowsUser>701032</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>8686fa6e-73ec-45dc-bfba-b46860aea4c4</PackageIdentityName>
+    <PackageIdentityPublisher>CN=701032</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\701032\source\repos\Lab4_GeometryShader\GeometryShader\Lab4\x64\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\701032\source\repos\Lab4_GeometryShader\GeometryShader\x64\Debug\Lab4\AppX</LayoutDir>
+    <RegisteredManifestChecksum>4AC5B590835A8EAC13562F81998D5E9CC02D6467F403FF8D8C9BE895F52B542D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8686fa6e-73ec-45dc-bfba-b46860aea4c4_1.0.0.0_x64__8z4zb11erv6fm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8686fa6e-73ec-45dc-bfba-b46860aea4c4_8z4zb11erv6fm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8686fa6e-73ec-45dc-bfba-b46860aea4c4</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=701032</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\701032\source\repos\Lab4_GeometryShader\GeometryShader\x64\Debug\Lab4\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-24T12:30:28.932</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\701032\source\repos\Lab4_GeometryShader\GeometryShader\x64\Debug\Lab4\Lab4.exe">
+      <PackagePath>Lab4.exe</PackagePath>
+      <Modified>2023-02-24T13:22:13.566</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\701032\source\repos\Lab4_GeometryShader\GeometryShader\x64\Debug\Lab4\Lab4.winmd">
+      <PackagePath>Lab4.winmd</PackagePath>
+      <Modified>2023-02-24T12:18:20.331</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\701032\source\repos\Lab4_GeometryShader\GeometryShader\x64\Debug\Lab4\SamplePixelShader.cso">
+      <PackagePath>SamplePixelShader.cso</PackagePath>
+      <Modified>2023-02-24T13:22:07.360</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\701032\source\repos\Lab4_GeometryShader\GeometryShader\x64\Debug\Lab4\SampleVertexShader.cso">
+      <PackagePath>SampleVertexShader.cso</PackagePath>
+      <Modified>2023-02-24T13:22:07.567</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\701032\source\repos\Lab4_GeometryShader\GeometryShader\x64\Debug\Lab4\GeometryShader.cso">
+      <PackagePath>GeometryShader.cso</PackagePath>
+      <Modified>2023-02-24T13:22:07.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\701032\source\repos\Lab4_GeometryShader\GeometryShader\Lab4\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2023-01-04T06:33:28.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\701032\source\repos\Lab4_GeometryShader\GeometryShader\Lab4\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-01-04T06:33:28.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\701032\source\repos\Lab4_GeometryShader\GeometryShader\Lab4\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-01-04T06:33:28.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\701032\source\repos\Lab4_GeometryShader\GeometryShader\Lab4\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-01-04T06:33:28.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\701032\source\repos\Lab4_GeometryShader\GeometryShader\Lab4\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-01-04T06:33:28.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\701032\source\repos\Lab4_GeometryShader\GeometryShader\Lab4\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-01-04T06:33:28.657</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\701032\source\repos\Lab4_GeometryShader\GeometryShader\Lab4\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-01-04T06:33:28.657</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\\redist\Debug\X64\ucrtbased.dll">
+      <PackagePath>ucrtbased.dll</PackagePath>
+      <Modified>2020-12-02T04:31:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\701032\source\repos\Lab4_GeometryShader\GeometryShader\x64\Debug\Lab4\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2023-02-24T12:30:28.898</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

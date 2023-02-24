@@ -1,0 +1,1 @@
+C:\Users\701032\source\repos\Lab4_GeometryShader\GeometryShader\Lab4\Lab4.vcxproj;x64

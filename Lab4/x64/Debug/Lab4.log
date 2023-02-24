@@ -1,0 +1,13 @@
+﻿  compilation object save succeeded; see C:\Users\701032\source\repos\Lab4_GeometryShader\GeometryShader\x64\Debug\Lab4\SamplePixelShader.cso
+  compilation object save succeeded; see C:\Users\701032\source\repos\Lab4_GeometryShader\GeometryShader\x64\Debug\Lab4\SampleVertexShader.cso
+C:\Users\701032\source\repos\Lab4_GeometryShader\GeometryShader\Lab4\GeometryShader.hlsl(50,12): warning X3078: 'i': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+C:\Users\701032\source\repos\Lab4_GeometryShader\GeometryShader\Lab4\GeometryShader.hlsl(68,12): warning X3078: 'i': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  
+  compilation object save succeeded; see C:\Users\701032\source\repos\Lab4_GeometryShader\GeometryShader\x64\Debug\Lab4\GeometryShader.cso
+  pch.cpp
+  App.cpp
+  DeviceResources.cpp
+  Lab4Main.cpp
+  SampleFpsTextRenderer.cpp
+  Sample3DSceneRenderer.cpp
+  Lab4.vcxproj -> C:\Users\701032\source\repos\Lab4_GeometryShader\GeometryShader\x64\Debug\Lab4\Lab4.exe
